@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[1005],{8505:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/blackstar-gaming/blog/tags/hola","allTagsPath":"/blackstar-gaming/blog/tags","count":1}')}}]);
