@@ -10,5 +10,5 @@ Willkommen im Black Star Gaming Wiki!
 
 ## Quick Links
 
-[Link](google.de)
+[Link](https://google.de/)
 
