@@ -1,0 +1,1 @@
+cmd /C 'set "GIT_USER=Nikolai-Ahlhelm" && yarn deploy'
