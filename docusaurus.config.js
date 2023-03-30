@@ -68,7 +68,7 @@ const config = {
         title: 'Black Star Gaming',
         logo: {
           alt: "BSG Logo :( - Report me, I'm broken",
-          src: 'img/logo.png',
+          src: 'https://raw.githubusercontent.com/Nikolai-Ahlhelm/blackstar-gaming/main/static/img/logo.png',
         },
         items: [
           {

@@ -12,17 +12,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <img class="logo-image" src="@site/static/img/MainLogo_big_with_BLACK_STAR_Shadow.png" alt="Mein Logo"/>
-        <div className={styles.main_logo}/>
-        <h1 className={styles.main_title}>{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="http://discord.blackstar-gaming.de/">     
-            🎮 Tritt uns bei!
-          </Link>
-        </div>
+        <img class={styles.main_logo} src="https://raw.githubusercontent.com/Nikolai-Ahlhelm/blackstar-gaming/main/static/img/MainLogo_big_with_BLACK_STAR_Shadow.png" alt="BSG Logo"/>
       </div>
     </header>
   );
@@ -36,8 +26,23 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
-        <p>DAs ist ein test</p>
+        <div className={styles.main_title_container}>
+          <h1 className={styles.main_title}>{siteConfig.title}</h1>
+            <p className="hero__subtitle">{siteConfig.tagline}</p>
+            <div className={styles.buttons}>
+              <Link
+                className="button button--secondary button--lg "
+                to="http://discord.blackstar-gaming.de/">     
+                🎮 Tritt uns bei!
+              </Link>
+            </div>
+        </div>
+
+
+        <div className={styles.featuresStyle}>
+          <HomepageFeatures />
+        </div>
+
       </main>
     </Layout>
   );
