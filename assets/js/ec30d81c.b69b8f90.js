@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[663],{422:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/blackstar-gaming/blog/tags/facebook","allTagsPath":"/blackstar-gaming/blog/tags","count":1}')}}]);
