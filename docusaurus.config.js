@@ -3,6 +3,8 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const milSimSidebar = require.resolve('./sidebarsMilSim.js')
+
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -39,6 +41,8 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          path: 'docs',
+          routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -56,6 +60,19 @@ const config = {
           customCss: require.resolve('./src/css/custom.css'),
         },
       }),
+    ],
+  ],
+
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'milsim',
+        path: 'milsim',
+        routeBasePath: 'milsim',
+        sidebarPath: require.resolve('./sidebarsMilSim.js'),
+        // ... other options
+      },
     ],
   ],
 
@@ -78,6 +95,13 @@ const config = {
             label: '🌍 Wiki',
           },
           {to: '/blog', label: '📰 Blog', position: 'left'},
+          {
+            type: 'docSidebar',
+            docsPluginId: 'milsim',
+            sidebarId: 'milsimSidebar',
+            position: 'left',
+            label: '🪖 MilSim',
+          },
           {
             label: '🎮 Discord',
             position: 'right',
