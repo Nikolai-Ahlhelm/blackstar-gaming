@@ -137,7 +137,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Black Star Gaming Community. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Black Star Gaming Community. </br> Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
