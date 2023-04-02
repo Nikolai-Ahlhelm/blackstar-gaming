@@ -13,9 +13,9 @@ Hier findest du alle Informationen zu unserem MilSim Projekt.
 
 **[❓ Wie werde Ich Mitglied?](/)**
 
-**[👋🏻 Einsteiger Leitfaden](/)**
+**[📒 Einsteiger Leitfaden](/)**
 
-**[📒 Ausbildungen](/)**
+**[📚 Ausbildungen](/)**
 
 **[📱 Funk-Handbuch](/)**
 
