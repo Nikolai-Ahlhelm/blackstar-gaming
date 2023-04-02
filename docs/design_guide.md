@@ -30,7 +30,7 @@ Für die Abgrenzung von bestimmten Bereichen.
 
 ---  
 
-##Einen Link erstellen  
+## Einen Link erstellen  
 [Hier kommt dein Text rein](https://www.wir-machen-druck.de/product-icon/lehrerstempel-automatik-mit-motiv-das-hast-du-super-gemacht/thumbnail/lehrerstempel-automatik-mit-motiv-das-hast-du-super-gemacht_5aca7f96e7e3c796c3463f2c5ad01f8249.png)  
 
 ## Wörter hervorheben  
