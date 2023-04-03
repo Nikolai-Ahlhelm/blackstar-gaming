@@ -92,6 +92,44 @@ graph TD;
 
 <hr></hr>
 
+## 🔥 Feuerstatus
+
+>### 🟢 Grün
+>Feuer auf **bestätigte** feindliche Einheiten darf nach eigenem Ermessen >eröffnet werden.
+
+>### 🟡 Gelb
+>Beschuss erwiedern
+
+>### 🔴 Rot
+>Feuer auf **bestätigte** feindliche Einheiten darf nach eigenem Ermessen >eröffnet werden.
+
+:::caution Wichtig
+Im Nahbereich ist der Feuerstatus nicht von relevanz.
+Selbstverteidigung ist hier das oberste Gebot.
+:::
+
+<hr></hr>
+
+## 🔭 Kontakt
+
+Die **EÜMPF-Regel (Erfassen, Überprüfen, Melden, Positionieren, Feuerstatus)**:
+
+1. **Erfassen** der notwendigen Informationen: Richtung, Menge, Geländemarker (rotes Haus, blaues Auto ...)
+2. **Überprüfen** (falls möglich)  welche Art von Kontakt: **Feind, Freund, Zivil, Unbekannt**
+3. 📟 **Melden**:  
+**"Kontakt, [RICHTUNG], [ANZAHL] [TYP], [ART]"**  
+Beispiel:   
+"Kontakt, 206°, 5 Bewaffnete, Unbekannt"  
+"Kontakt, Voraus, 2 Fahrzeuge, Feindlich"
+4. **Positionieren**: Insbesondere bei Feindkontakt, z.B. Deckung suchen
+5. **Feuerstatus**: Beachten und dementsprechend handeln
+
+:::tip Tipp
+Wenn es sich um scheinbaren Feindkontakt handelt, kann es sinnvoll sein Deckung zu suchen und dann eine Meldung zu machen, da man nichts melden kann wenn man bewusstlos ist. 😉
+:::
+
+<hr></hr>
+
 ## ⌚ Missionsablauf
 
 1. 🏴 Sammeln auf dem Server
