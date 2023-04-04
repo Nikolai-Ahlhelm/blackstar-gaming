@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
 # 🪖 Hauptseite
@@ -10,14 +10,13 @@ Hier findest du alle Informationen zu unserem MilSim Projekt.
 
 ## 📌 Quick Links
 
+**[📒 Leitfaden](/milsim/leitfaden)**
 
-**[❓ Wie werde Ich Mitglied?](/)**
+**[❓ Wie werde Ich Mitglied?](/milsim/mitglied_werden)**
 
-**[📒 Einsteiger Leitfaden](/)**
+**[📚 Ausbildungen](/milsim/ausbildungen/Uebersicht)**
 
-**[📚 Ausbildungen](/)**
-
-**[📱 Funk-Handbuch](/)**
+**[📟 Funk-Handbuch](/milsim/funk-handbuch)**
 
 
 
