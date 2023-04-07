@@ -117,7 +117,8 @@ Die **EÜMPF-Regel (Erfassen, Überprüfen, Melden, Positionieren, Feuerstatus)*
 1. **Erfassen** der notwendigen Informationen: Richtung, Menge, Geländemarker (rotes Haus, blaues Auto ...)
 2. **Überprüfen** (falls möglich)  welche Art von Kontakt: **Feind, Freund, Zivil, Unbekannt**
 3. 📟 **Melden**:  
-**"Kontakt, [RICHTUNG], [ANZAHL] [TYP], [ART]"**  
+**"Kontakt, [Menge und Typ], [Richtung] [Distanz] [evtl. Geländemerkmal]"**  
+[Zum Funk-Handbuch](/milsim/funk-handbuch#kontaktmeldung)  
 Beispiel:   
 "Kontakt, 206°, 5 Bewaffnete, Unbekannt"  
 "Kontakt, Voraus, 2 Fahrzeuge, Feindlich"

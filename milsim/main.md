@@ -18,10 +18,31 @@ Hier findest du alle Informationen zu unserem MilSim Projekt.
 
 **[📟 Funk-Handbuch](/milsim/funk-handbuch)**
 
+---
+
+## 🙋🏻 Ansprechpartner
+
+<table>
+  <thead>
+    <tr>
+      <th>Ansprechpartner</th>
+      <th>Bereich</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ThePhoenix</td>
+      <td>Alles</td>
+    </tr>
+    <tr>
+      <td><b>Mage</b></td>
+      <td>Luftwaffe</td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
-
 
 ## 🪛 Modset
 

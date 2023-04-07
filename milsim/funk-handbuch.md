@@ -97,7 +97,7 @@ Evtl. macht es Sinn 'Richtung' und 'Distanz' zu ersetzten durch ein Planquadrat 
 :::
 
 :::caution Hinweis
-Ebenfalls kann bei Klarheit aus 'Kontakt' auf ein 'Feindkontakt' oder 'Verbündete' werden, wenn man sich sicher ist. 
+Ebenfalls kann bei Klarheit aus 'Kontakt' ein 'Feindkontakt' oder 'Verbündete' werden, wenn man sich sicher ist. 
 :::
 
 

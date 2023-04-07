@@ -8,6 +8,6 @@ sidebar_position: 0
 
 | **Ausbilder** | **Bereiche**  |
 |---------------|---------------|
-| **Kaminsky**  | Alles         |
-| **Günther**   | Pio, Funk     |
+| **ThePhoenix**| Alles         |
+| **Mage**      | Luftwaffe     |
 | **Wolfgang**  | [Noch in Ausbildung]|
