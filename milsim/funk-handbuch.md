@@ -159,3 +159,22 @@ Ankunft in 4 Minuten, Landefläche mit Rauch makieren, kommen.
 
 Delta-1: Verstanden, Fläche wird mit Rauch makiert, Ende.
 ```
+
+
+## Bedienung des Funkgeräts
+
+### Steuerung
+
+#### Sprechtasten 
+- Sprechtaste 1 (Primär): Festelltaste
+- Sprechtaste 2: Strg + Feststelltaste
+- Sprechtaste 3: Alt + Festelltaste
+
+#### Kanalwechsel
+- Vorheriger Kanal: Strg + UNTEN
+- Nächster Kanal: Strg + OBEN
+  
+#### Funkgeräteverwaltung
+- Aktives Funkgerät öffnen: Strg + Alt + Festelltaste
+- Funkgeräte durchschalten: Umschalt + Alt + Feststelltaste
+- Bordfunkoberfläche (in Fahrzeugen): Umschalt + Strg + Tab 
