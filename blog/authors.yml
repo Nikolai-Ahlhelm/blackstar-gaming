@@ -1,14 +1,14 @@
-ThePhoenix:
+nikolai:
   name: ThePhoenix / Nikolai
   title: Communityleiter
-  url:
-  image_url: 
+  url: https://blackstar-gaming.de
+  image_url: https://raw.githubusercontent.com/Nikolai-Ahlhelm/blackstar-gaming/main/static/img/authors_images/nikolai.jpg
 
 bsg_team:
   name: Black Star Gaming Team
   title: Black Star Gaming Team
-  url: 
-  image_url: 
+  url: https://blackstar-gaming.de
+  image_url: https://raw.githubusercontent.com/Nikolai-Ahlhelm/blackstar-gaming/main/static/img/logo.png
 
 slorber:
   name: Sébastien Lorber

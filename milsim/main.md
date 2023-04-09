@@ -54,10 +54,10 @@ Beides Startet den Download der Mods.
 
 ### Downloads
 
-Die Workshop Kollektion findest du **[hier](/)**.
+~~Die Workshop Kollektion findest du **[hier](/)**.~~
 
-Das Mod Preset für den Launcher findest du **[hier](./downloads/BlackStarMilSimModliste.html)**.
-<a target="_blank" href="./downloads/BlackStarMilSimModliste.html">Download</a>
+Das Mod Preset für den Launcher findest du hier:
+<a target="_blank" href="https://public.db.files.1drv.com/y4mZEoUdrwBBxNXKgVn4VpoVnoY2lLuX7amgSP8OWSiDcKZDL_6x_sFQ1R5-zIc5DvZRlZFdowb5EzM51jXx6hCBC8oFkkQSZjmDswiwWRoi3X_P5iawi0IKo4E7Mx-gnrcqDDEfxO0BD9GoiDTPazeKGdpeIIiGOffhXbvTTo-3YVUdoAatsBtjLuAKQV8VJ-4gQm0bvie6PNpfvf54cF91pB4B009CYCQm343QLe3dwM?AVOverride=1">Zum Download</a>
 
 
 ### Preset zum Launcher hinzufügen

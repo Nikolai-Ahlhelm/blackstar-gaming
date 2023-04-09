@@ -118,11 +118,19 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Social',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Blog',
+                to: '/blog',
+              },
+              {
+                label: 'Teamspeak',
+                href: 'ts3:\\blackstar-gaming.de',
+              },
+              {
+                label: 'Discord',
+                href: 'http://discord.blackstar-gaming.de',
               },
             ],
           },
