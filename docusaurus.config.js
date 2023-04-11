@@ -103,14 +103,19 @@ const config = {
             label: '🪖 MilSim',
           },
           {
+            label: '♾️ Status',
+            position: 'right',
+            href: 'https://stats.uptimerobot.com/m2vnJhpzlL',
+          },
+          {
             label: '🎮 Discord',
             position: 'right',
-            href: 'http://discord.blackstar-gaming.de',
+            href: 'http://dc.blackstar-gaming.de',
           },
           {
             label: '🎧 Teamspeak',
             position: 'right',
-            href: 'ts3:\\blackstar-gaming.de',
+            href: 'ts3server://ts.blackstar-gaming.de?port=9987',
           },
         ],
       },
@@ -125,46 +130,16 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'Teamspeak',
-                href: 'ts3:\\blackstar-gaming.de',
-              },
-              {
                 label: 'Discord',
                 href: 'http://discord.blackstar-gaming.de',
               },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Teamspeak',
+                href: 'ts3server://ts.blackstar-gaming.de?port=9987',
               },
               {
                 label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'Teamspeak',
-                href: 'ts3:\\blackstar-gaming.de',
-              },
-              {
-                label: 'Discord',
-                href: 'http://discord.blackstar-gaming.de',
+                href: 'https://twitter.com/BlackStarGmgCom',
               },
             ],
           },

@@ -11,6 +11,38 @@ Wir bitten darum, dass du dich an diese hältst, denn sie dienem einem ordentlic
 
 <hr></hr>
 
+## 🔄️ Standard Prozeduren
+
+Hier werden Prozeduren erklärt, die nach gewissen Standards ablaufen sollen um die Effizienz aller Beteiligten zu erhöhen.
+
+### ⭕ Rundumsicherung
+
+Bei einer Rundumsicherung wird jeder Bereich durch ein Truppmitglied gesichert, sodass eine 360° Sicherung entsteht.  
+- Wird aufgebaut sobald Einheit stationär ist
+- Wird selbständig **immer** aufgebaut mit Absprache unter einander
+  
+### 🚚 Ab- / Aufsetzen
+
+Ab-/Aufsetzen erfolgt **immer erst nach Befehl** des Truppführers.  
+Beim Aufsetzen gibt jeder im Truppfunk durch das er sitzt:  
+``"Alpha-3, sitzt."``  
+So weiß der Truppführer, dass der Trupp abfahrt bereit ist und niemand vergessen wird.
+
+### 🆘 Verwundeten Rettung
+
+Wird ein Verwundeter gesichtet, muss dies sofort im Truppfunk gemeldet werden.  
+``"Verwundeter, beim blauen Haus EG am Eingang!"``  
+<br></br>
+
+**Vorgehen:**
+1. Anschließend (wenn nicht durch TF organisiert) mit einem TM organisieren und Sicherung des Verwundeten vorbereiten, z.B. einer gibt Feuerschutz der andere rückt vor zum Verwundeten und sichert die Umgebung. 
+2. Der Andere rückt nach.
+3. Einer gibt Deckung, der Andere untersucht den Verwundeten und führt Erst-Versorgung durch.
+4. Verwundeten bergen, oder Sani zur Position rufen und weiter Deckung geben.
+
+
+<hr></hr>
+
 ## 🗃️ Organisation
 
 Hier findest du alle Informationen zu jeder organisatorischen Einheit.
@@ -89,6 +121,36 @@ graph TD;
     Zugtrupp-2--->Delta;
 
 ```
+
+<hr></hr>
+
+## 🩹 Erst Versorgung
+
+Mit der erst Versorgung kann man sich oder andere stabilisieren, bis ein Sanitäter zur weiteren Versorgung vor Ort ist.  
+Das Diagramm zeigt das Vorgehen bei Verletzten (sieht kompliziert aus, ist es aber nicht): 
+
+```mermaid
+graph TD;
+  rM(Verletzung)-->rg;
+  rM(Verletzung)-->rT;
+  rg(Verletzte Gliedmaßen)-->rt(Tourniquets anlegen);
+  rT(Verletzter Torso/Kopf)-->rV(Verband anlegen);
+  rt-->rP(Puls prüfen);
+  rV-->rP;
+  rP-->rKP(Kein Puls);
+  rP-->rMP(Hat Puls);
+  rKP-->rA(Sofort Alamierung, lebensgefahr);
+  rMP-->rAP(Atmung prüfen);
+  rAP-->rKA(Keine Atmung);
+  rAP-->rHA(Atmet);
+  rHA-->rSS(Stabile Seitenlage);
+  rKA-->rKU(Kopf überstrecken und drehen);
+  rKU-->rSA(Sofort Alamierung, lebensgefahr);
+  rSA-->rMAuD(Hilfe anfordern und Sicherung aufbauen);
+  rSS-->rMAuD;
+  rA-->rMAuD;
+```
+
 
 <hr></hr>
 

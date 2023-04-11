@@ -65,7 +65,7 @@ Die Gegenstände sind von Jedem mitzuführen, unabhängig von seiner Klasse die 
 </thead>
 <tbody>
   <tr>
-    <td><b>📟 Funkgerät (AN/PRC-148)</b></td>
+    <td><b>📟 Funkgerät (SEM 52 SL)</b></td>
     <td>1</td>
     <td>1</td>
   </tr>
@@ -116,9 +116,20 @@ wie z.B. dem MG-Schützen.
 
 ## Truppfüher
 
-Die Ausrüstung des Truppführers unterscheidet sich nicht vom Standard.  
-Es wird empfohlen mehrere Rauchgranaten mit diversen Farben zu nutzen,  
-sodass Landepunkte, Verbündte oder Feinde farblich markiert werden können.
+Ausrüstung die ein Truppführer zusätzlich haben muss:
+
+<table>
+<tbody>
+  <tr>
+    <td><b>📟 AN/PRC-148</b></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><b>🌫️ Rauchgranaten (verschiedene Farben)</b></td>
+    <td>3 - 5</td>
+  </tr>
+</tbody>
+</table>
 
 ## Sanitäter
 

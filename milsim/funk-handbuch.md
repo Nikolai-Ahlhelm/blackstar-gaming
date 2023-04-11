@@ -4,11 +4,42 @@ sidebar_position: 3
 
 # 📟 Funk-Handbuch
 
-# Begriffe
-  
-Hier werden alle Begriffe und Phrasen erklärt.  
-  
-## Grundbegriffe
+Dieses Funk-Handbuch ist zur vereinheitlichung der Funkkommunuikation, und soll von jedem angewendet werden.
+
+<hr></hr>
+
+## ⚖️ Unterschied Trupp- & Command-Funk
+
+Prinzipiell gibt es zwei verschiedene Kanal-Arten.
+
+### Truppfunk (intern)
+
+Der Truppfunk ist der interne Funk eines Trupps, z.B. von Trupp Alpha.
+Dort befinden sich alle Truppmitglieder. Er dient der Kommunitkation im Trupp.
+
+:::caution Wichtig!
+Im Truppfunk gelten die Verhaltensregeln nicht! Es gibt keine Vorgaben wie dort gefunkt wird.
+:::
+
+
+### Command-Funk
+
+Der Command-Funk ist der Kanal zwischen *Command* und den Truppführern.  
+So können sich die Trupps koordinieren und mit *Command* kommunizieren.
+
+**Im Command-Funk halten sich folgende Personen auf:**
+- ***Command***
+- **Truppführer und Ass. Truppführer**
+- **Lufteinheiten**
+
+:::info
+Im Command-Funk ist die Einhaltung der Verhaltensregeln besonders wichtig, damit alle Mithörenden nicht unnötig zu gelabert werden und der Kanal nicht unnötig lang blockiert wird. 
+:::
+
+
+<hr></hr>
+
+## ✍🏻 Grundbegriffe
 
 ### Anfrage
 
@@ -105,7 +136,7 @@ Ebenfalls kann bei Klarheit aus 'Kontakt' ein 'Feindkontakt' oder 'Verbündete' 
 
 <hr></hr>
 
-## Grundsätze
+## 🪨 Grundsätze
 
 ### Kurz & Präzise
 
@@ -122,7 +153,7 @@ Einer spricht, die anderen hören zu. Niemals darf jemandem in seinen Funkspruch
 
 <hr></hr>
 
-## Beispiele
+## 📖 Beispiele
 
 ### Feindkontakt
 
@@ -160,8 +191,9 @@ Ankunft in 4 Minuten, Landefläche mit Rauch makieren, kommen.
 Delta-1: Verstanden, Fläche wird mit Rauch makiert, Ende.
 ```
 
+<hr></hr>
 
-## Bedienung des Funkgeräts
+## 🕹️ Bedienung des Funkgeräts
 
 ### Steuerung
 
@@ -178,3 +210,4 @@ Delta-1: Verstanden, Fläche wird mit Rauch makiert, Ende.
 - Aktives Funkgerät öffnen: Strg + Alt + Festelltaste
 - Funkgeräte durchschalten: Umschalt + Alt + Feststelltaste
 - Bordfunkoberfläche (in Fahrzeugen): Umschalt + Strg + Tab 
+
