@@ -16,7 +16,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Unsere Leidenschaft',
+    title: '🎮 Unsere Leidenschaft',
     icon: '🎮',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
@@ -32,8 +32,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Lustige und spannende Events, von Counter Strike zu Company of Heroes bei uns findet jeder
-        das richtige Event und für Vorschläge haben wir immer ein offenes Ohr.
+        Extend or customize your website layout by reusing React. Docusaurus can
+        be extended while reusing the same header and footer.
       </>
     ),
   },
@@ -43,6 +43,8 @@ function Feature({Svg, title, description, icon}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center padding-horiz--md">
+        
+        //<Svg className={styles.featureSvg} role="img" />
       </div>
       <div className="text--center padding-horiz--md">
         <h1>{icon}</h1>
@@ -66,4 +68,3 @@ export default function HomepageFeatures() {
     </section>
   );
 }
-

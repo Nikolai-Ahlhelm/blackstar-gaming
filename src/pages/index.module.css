@@ -47,4 +47,29 @@
   margin-right: 15%;
   margin-bottom: 5%;
   border-radius: 10px;
+  box-shadow: 'rgba(0, 0, 0, 0.35) 0px 5px 15px';
+}
+
+.statsStyle {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 5%;
+  border-radius: 10px;
+  border-width: 6px;
+  border-color: rgb(15, 112, 202);
+  border-style: solid;
+  box-shadow: 'rgba(0, 0, 0, 0.35) 0px 5px 15px';
+}
+
+.projectsStyle {
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-bottom: 5%;
+  padding: 2%;
+  border-radius: 10px;
+  box-shadow: 'rgba(0, 0, 0, 0.35) 0px 5px 15px';
+}
+
+.bigFont {
+  font-size: 120%;
 }
