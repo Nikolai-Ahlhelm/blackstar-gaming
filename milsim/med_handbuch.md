@@ -4,6 +4,32 @@ sidebar_position: 4
 
 # ⚕️ Medizinisches Handbuch
 
+## 📋 Standard Vorgehen
+
+### 🩹 Verwundeten Versorgung
+
+1. Blutung stoppen - Toruniquets & Bandagen
+2. Atemwege sichern - Accuvac, King LT
+3. Puls & Blut - Blutdruck erhöhen und Puls wiederherstellen
+4. Wunden nähen - OP Set oder EACA
+5. Brüche versorgen - Schiene anlegen oder wenn nötig MEDEVAC vorbereiten
+6. Bewusstsein wiederherstellen - Schmerzmittel, Re-orientierung oder Ammonium Karbonat 
+7. Zugänge, Tourniquets und Überwachungsinstrumente entfernen
+
+### 🚑 MEDEVAC
+
+**Wann ist ein MEDEVAC notwendig?**  
+- Der Patient hat zu viele / starke Verletzungen, dass er im Einsatz nicht behandelt werden kann.  
+- Der Patient hat einen offenen Bruch oder Trümmerbruch.  
+- Bei zu vielen Verwundeten kann der am schwersten Verletze per MEDEVAC evakuiert werden, sodass die Behandlung aller anderen sichergestellt werden kann
+
+**Vorgehen**
+1. Patienten stabilisieren - Wunden verschließen, Atmung sichern (Transportfahig machen)
+2. MEDEVAC anfordern - Entweder direkt an Command oder über Truppführer  
+``Benötigen MEDEVAC an [POSITION], [ZAHL und ART der Verwundeten] [ZUSTAND] [GRUND FÜR MEDEVAC].``
+3. Patient bis zur Abholung überwachen
+4. Evtl. den MEDEVAC begleiten, falls notwendig (vorher Absprache mit TF und Command)
+
 ## 🩸 Wundtypen
 
 Es gibt acht Arten von Wunden, jede dieser Wunden kann klein, mittel oder groß sein.
@@ -174,4 +200,150 @@ Dabei muss man wie folgt vorgehen:
 ---
 
 ## 💊 Medikamente
+
+Wichtige Medikamente sind mit ❗ markiert.
+
+**Abkürzungen:**  
+HR: Herzschlag / Herzrate
+BP: Blutdruck / Blood Pressure
+
+### 🌀 Schmerzmittel
+
+**Schmerzmittel ❗**  
+Unterdrückt Schmerzen (0.3)  
+⬆️ HR - ⬇️ BP
+
+**Nalbuphin**  
+Unterdrückt Schmerzen (0.6)  
+⬇️ BP & HR
+
+**Ketamin ❗**  
+Unterdrückt Schmerzen (0.8)  
+⬆️ HR - ⬇️ BP
+
+**Morphin**
+Unterdrückt Schmerzen (0.8)  
+⬇️ BP & HR
+
+**Fentanyl ❗**  
+Unterdrückt Schmerzen (1)  
+⬇️ BP & HR
+
+**Naloxon (NARCAN)**
+Verteilt Morphium im Blut, wirkt wie ein Morphium-Pen.
+
+**Pervitin**
+Unterdrückt Schmerzen (0.5)  
+Anfangs Stamina Boost dann erhöhter Konsum.
+Chromatische Aberration und Waffen Schwankungen sind Nebeneffekte.
+
+
+### 🩸 Kreislauf Medikamente
+
+**Epinephrin ❗**  
+Erhöht HR, BP und die Aufwach-Chance.  
+(Nebenwirkung: Stamina Boost)  
+
+**Ammonium Karbonat ❗**  
+Erhöht HR und wacht Patienten auf (wenn Stabil genug).  
+
+**Norepinephrin**  
+Erhöht den BP um ca. 15%.  
+  
+**Phenylephrin ❗**  
+Erhöht BP um ca. 30%,  
+verringert HR um 10-15%.  
+
+**Nitroglycerin**  
+Verringert den BP um ca. 15%.
+
+**Adenosin ❗**  
+Verringert HR & BP.  
+
+**TXA (Tranexamic Acid)**  
+Fördert Wundgerinnung, sinnvoll bei extrem schwer Verwundeten.
+
+**EACA ❗**  
+Verschließt Wunden alle 6 Sekunden permanent.    
+Bis alle Wunden geschlossen sind oder Patient tot ist.  
+
+### ⚡ Erhöhung von AED/CPR Chancen
+  
+**Amiodaron ❗**  
+Erhöht Chance um 8% - 20%.  
+33% Chance einer Bradykardie.  
+  
+**Lidocaine**  
+Erhöht Chance um 8%.  
+Unterdrückt Schmerzen.  
+
+**Atropin ❗**  
+Erhöht HR und behandelt Bradykardie.  
+Behandelt chemische Vergiftung.  
+
+### 💉 Diverse Medikamente
+
+**Coffein**  
+Ausdauer Droge, erhöht Ausdauer und HR.  
+
+**Naloxon ❗**  
+Behandelt Morphin, Fentanyl und Nalbuphin Überdosis in einem 1:1 Verhältnis.  
+Behebt auch deren Effekte.  
+
+### 💼 Kits / Sets  
+
+**AAT Kit ❗**  
+Benutzt zur Nadel Dekompression und Flüssigkeitsabfuhr bei einem Pneumothorax.  
+
+**NCD Kit**  
+Benutzt zur Nadel Dekompression.  
+
+**Chest Seal ❗**  
+Behandelt Pneumothorax.  
+
+**Bluttransfusions Set**  
+Wird zur Blutentnahme benutzt.  
+
+**Operationsset ❗**
+Benutzt zum zunähen von Wunden.
+
+**Persönliches Erste-Hilfe Set**
+Heilt alle Verletzungen.
+(Benutzung ist bei uns nicht erlaubt!)
+
+**AED-X ❗**
+Defibrillator mit Überwachungsfunktion der Vitalwerte.
+
+**Puls Oximeter ❗**
+Überwacht HR und SpO2-Wert.
+
+**Stethoskop**
+Zum Abhören der Lunge.
+(Wird bei uns z.Z. nicht benötigt)
+
+
+### 🫁 Atemwegssicherung  
+
+**Accuvac ❗**
+Zum Aussaugen des Rachens.
+
+**Guedel Tube**  
+Verhindert versperren der Atemwege.  
+(Besser den King LT benutzten!)  
+
+**King LT ❗**  
+Verhindert versperren und verstopfen der Atemwege.  
+
+
+### 😷 OP-Medikamente
+
+**Etomidat**  
+Anästhetikum, unterdrückt Schmerzen und verringert HR.  
+
+**Lorazepam**  
+Verringert BP, sediert Patienten.  
+33% Chance einer Bradykardie.  
+
+**Flumazenil**  
+Entfernt Sedierung und lässt Patienten aufwachen.  
 

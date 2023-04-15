@@ -51,6 +51,16 @@ export default function Home() {
         
         <div className={styles.projectsStyle} style={{display: 'flex', justifyContent: 'center', boxShadow: 'rgba(0, 0, 0, 0.35) 0px 5px 15px'}}>
           <div className={clsx('col col--4')}>
+            
+
+            <div className="text--center">
+              <h1 style={{fontSize: '50px'}}>Unsere Projekte</h1>
+            </div>
+            
+            <br></br>
+            <hr style={{margin: "auto"}}></hr>
+            <br></br>
+            
             <div className="text--center padding-horiz--md">
               <h1>🪖 MilSim</h1>
               <p className={styles.bigFont}>Unser Arma 3 MilSim Projekt mit Fokus auf Bundeswehr. <br></br> 
@@ -91,7 +101,7 @@ export default function Home() {
               Du hast die Wahl dich unserer Gemeinde anzuschlißen oder etwas ganz neues zu erschaffen.<br></br>
               </p>
               <Link to="/docs/category/%EF%B8%8F-minecraft-1"> 
-                <button type="button"  className="button button--secondary button--dg" style={{borderWidth: '2px', borderColor: '#BBBBBB', backgroundColor: '#FFFFFF'}}>
+                <button type="button"  className="button button--secondary button--dg" style={{borderWidth: '2px', borderColor: '#BBBBBB'}}>
                  Mitmachen
                 </button>
               </Link>
