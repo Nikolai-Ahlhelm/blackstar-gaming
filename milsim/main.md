@@ -4,13 +4,19 @@ sidebar_position: 0
 
 # 🪖 Hauptseite
 
-Hier findest du alle Informationen zu unserem MilSim Projekt.
+![Titelbild](./img/titelbild.png)
+
+Hier findest du alle Informationen zu unserem MilSim Projekt.  
+
+
 
 ---
 
 ## 📌 Quick Links
 
 **[📒 Leitfaden](/milsim/leitfaden)**
+
+**[🎒 Ausrüstungsvorgaben](/milsim/ausruestung)**
 
 **[❓ Wie werde Ich Mitglied?](/milsim/mitglied_werden)**
 
@@ -72,4 +78,4 @@ Lade das Preset runter und starte den Arma Launcher.
 - Klicke rechts unten auf `Importieren`
 - Wähle dann im Dialogfeld die heruntergeladene Datei aus
 
-![Example banner](./img/modpreset_import.png)
+![Modpreset Beispiel](./img/modpreset_import.png)

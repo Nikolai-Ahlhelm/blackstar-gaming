@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 6
 ---
 
 # ⚕️ Medizinisches Handbuch
@@ -304,28 +304,28 @@ Behandelt Pneumothorax.
 **Bluttransfusions Set**  
 Wird zur Blutentnahme benutzt.  
 
-**Operationsset ❗**
-Benutzt zum zunähen von Wunden.
+**Operationsset ❗**  
+Benutzt zum zunähen von Wunden.  
 
-**Persönliches Erste-Hilfe Set**
-Heilt alle Verletzungen.
-(Benutzung ist bei uns nicht erlaubt!)
+**Persönliches Erste-Hilfe Set**  
+Heilt alle Verletzungen.  
+(Benutzung ist bei uns nicht erlaubt!)  
 
-**AED-X ❗**
-Defibrillator mit Überwachungsfunktion der Vitalwerte.
+**AED-X ❗**  
+Defibrillator mit Überwachungsfunktion der Vitalwerte.  
 
-**Puls Oximeter ❗**
-Überwacht HR und SpO2-Wert.
+**Puls Oximeter ❗**  
+Überwacht HR und SpO2-Wert.  
 
-**Stethoskop**
-Zum Abhören der Lunge.
-(Wird bei uns z.Z. nicht benötigt)
+**Stethoskop**  
+Zum Abhören der Lunge.  
+(Wird bei uns z.Z. nicht benötigt)  
 
 
 ### 🫁 Atemwegssicherung  
 
-**Accuvac ❗**
-Zum Aussaugen des Rachens.
+**Accuvac ❗**  
+Zum Aussaugen des Rachens.  
 
 **Guedel Tube**  
 Verhindert versperren der Atemwege.  

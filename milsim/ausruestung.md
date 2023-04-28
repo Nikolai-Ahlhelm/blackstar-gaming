@@ -189,6 +189,19 @@ Zusätzlich sollte ein Sanitäter folgende Ausrüstung mit sich führen.
 </table>
 
 
-## Pionier
+## UAV-Pilot
 
-Da es noch keine Ausbildung gibt, existieren auch noch keine Ausrüstungsvorgaben.
+Zusätzlich zur Standardausrüstung benötigt ein UAV-Pilot:
+
+<table>
+<tbody>
+  <tr>
+    <td><b>📟 AN/PRC-148</b></td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td><b>🎮 UAV-Terminal</b></td>
+    <td>1</td>
+  </tr>
+</tbody>
+</table>

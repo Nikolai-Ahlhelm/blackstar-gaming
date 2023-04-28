@@ -48,4 +48,4 @@ wir gehen davon aus, dass jeder von euch von sich aus Interesse hat sich an dies
 - Die Ausrüstungsordnung schreibt vor welche Ausrüstung verwendet werden darf
 - Prinzipiell darf nur Ausrüstung benutzt werden die für einen freigegeben ist
 - Waffen müssen der Aufgabe die man im Trupp hat entsprechen (z.B. als MG-Schütze kein Scharfschützengewehr)
-- Es liegt in der Verantwortung des Truppführers, ob jemand eine Waffe benutzen darf für die er keine Unterweisung erhalten hat
+- Ob ein Soldat eine Waffenkategorie führen darf oder nicht, wird der Mitgliederliste entnommen

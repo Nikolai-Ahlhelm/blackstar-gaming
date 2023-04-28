@@ -4,42 +4,10 @@ sidebar_position: 2
 
 # 📒 Leitfaden / Handbuch
 
-Hier findest du alle Notwendigen Vorgehenweisen, Vorgaben und Informationen die du kennen / können solltest.  
+Hier findest du alle Notwendigen Vorgehensweisen, Vorgaben und Informationen, die du kennen / können solltest.  
 
-Obwohl wir versuchen so wenig wie möglich mit Regeln um uns zu werfen, sind ein paar trotzdem notwendig.  
-Wir bitten darum, dass du dich an diese hältst, denn sie dienem einem ordentlichen Spielablauf und sollen den Spielspaß aufrecht erhalten. [Zur Dienstvorschrift](/milsim/dienstvorschrift)
-
-<hr></hr>
-
-## 🔄️ Standard Prozeduren
-
-Hier werden Prozeduren erklärt, die nach gewissen Standards ablaufen sollen um die Effizienz aller Beteiligten zu erhöhen.
-
-### ⭕ Rundumsicherung
-
-Bei einer Rundumsicherung wird jeder Bereich durch ein Truppmitglied gesichert, sodass eine 360° Sicherung entsteht.  
-- Wird aufgebaut sobald Einheit stationär ist
-- Wird selbständig **immer** aufgebaut mit Absprache unter einander
-  
-### 🚚 Ab- / Aufsetzen
-
-Ab-/Aufsetzen erfolgt **immer erst nach Befehl** des Truppführers.  
-Beim Aufsetzen gibt jeder im Truppfunk durch das er sitzt:  
-``"Alpha-3, sitzt."``  
-So weiß der Truppführer, dass der Trupp abfahrt bereit ist und niemand vergessen wird.
-
-### 🆘 Verwundeten Rettung
-
-Wird ein Verwundeter gesichtet, muss dies sofort im Truppfunk gemeldet werden.  
-``"Verwundeter, beim blauen Haus EG am Eingang!"``  
-<br></br>
-
-**Vorgehen:**
-1. Anschließend (wenn nicht durch TF organisiert) mit einem TM organisieren und Sicherung des Verwundeten vorbereiten, z.B. einer gibt Feuerschutz der andere rückt vor zum Verwundeten und sichert die Umgebung. 
-2. Der Andere rückt nach.
-3. Einer gibt Deckung, der Andere untersucht den Verwundeten und führt Erst-Versorgung durch.
-4. Verwundeten bergen, oder Sani zur Position rufen und weiter Deckung geben.
-
+Obwohl wir versuchen, so wenig wie möglich mit Regeln um uns zu werfen, sind ein paar trotzdem notwendig.  
+Wir bitten darum, dass du dich an diese hältst, denn sie dienen einem ordentlichen Spielablauf und sollen den Spielspaß aufrecht erhalten. [Zur Dienstvorschrift](/milsim/dienstvorschrift)
 
 <hr></hr>
 
@@ -89,7 +57,7 @@ Position 2, 3 und 4 können auch Aufgaben wie MG-Schütze, AT-Schütze oder ande
 
 :::caution Hinweis
 - Position 2 ist unabhängig von seiner Aufgabe (MG,AT ...) immer der assistierende Truppführer (ATF). 
-- Sanitäter sind **immer** in der letzten Position zu zuornden.
+- Sanitäter sind **immer** in der letzten Position zuzuordnen.
 :::
 
 ### Zugstruktur
@@ -104,23 +72,146 @@ graph TD;
     Zugtrupp-->Charlie;
 ```
 
-### Gesamtstruktur
+### 🏛️ Gesamtstruktur
 
-Der **Command** ist die oberste Instanz und ist jeder Einheit übergeordnet, dies gilt zu jeder Zeit. Der Command ist für die koordination des gesamten Verbandes zuständig.  
-Die ZFs, sowie alle Untersützungstruppen und unzugeordnete Einheiten sind ihm direkt unterstellt, während TFs nur indirekt unterstellt sind.
+Der **Command** ist die oberste Instanz und ist jeder Einheit übergeordnet, dies gilt zu jeder Zeit. Der Command ist für die Koordination des gesamten Verbandes zuständig.  
+Die ZFs, sowie alle Unterstützungstruppen und nicht zugeordnete Einheiten sind ihm direkt unterstellt, während TFs nur indirekt unterstellt sind.
 
 ```mermaid
 graph TD;
     Command-->Zugtrupp-1;
     Command-->Zugtrupp-2;
-    Command-->Untersützungseinheiten;
-    Command-->Unzugeordnete;
+    Command-->Unterstützungseinheiten;
+    Command-->x(Nicht Zugeordnete);
     Zugtrupp-1-->Alpha;
     Zugtrupp-1--->Bravo;
     Zugtrupp-2-->Charlie;
     Zugtrupp-2--->Delta;
 
 ```
+
+### 📣 Rufzeichen / Bezeichnungen
+
+#### Einsatzleitung / Missionsleitung / Command
+Wird **Command** genannt, immer. *Command* ist die Person die, die Mission leitet. *Command* ist die oberste Entscheidungsinstanz.  
+  
+#### Trupprufzeichen 
+Die Trupprufzeichen beginnen bei Alpha, Bravo, Charlie usw.  
+Wie die einzelnen Truppmitglieder nummeriert sind siehst du [hier](/milsim/leitfaden#trupps).  
+  
+<hr></hr>  
+
+## 🔄️ Standarprozeduren
+
+Hier werden Prozeduren erklärt, die nach gewissen Standards ablaufen sollen, um die Effizienz aller Beteiligten zu erhöhen.
+
+### ⭕ Rundumsicherung
+
+Bei einer Rundumsicherung wird jeder Bereich durch ein Truppmitglied gesichert, sodass eine 360° Sicherung entsteht.  
+- Wird aufgebaut so bald Einheit stationär ist
+- Wird selbständig **immer** aufgebaut mit Absprache untereinander
+  
+### 🚚 Ab- / Aufsetzen
+
+Ab-/Aufsetzen erfolgt **immer erst nach Befehl** des Truppführers.  
+Beim Aufsetzen gibt jeder im Truppfunk durch das er sitzt:  
+``"Alpha-3, sitzt."``  
+So weiß der Truppführer, dass der Trupp abfahrt bereit ist und niemand vergessen wird.
+
+### 🆘 Verwundeten Rettung
+
+Wird ein Verwundeter gesichtet, muss dies sofort im Truppfunk gemeldet werden.  
+``"Verwundeter, beim blauen Haus EG am Eingang!"``  
+<br></br>
+
+**Vorgehen:**
+1. Anschließend (wenn nicht durch TF organisiert) mit einem TM organisieren und Sicherung des Verwundeten vorbereiten, z.B. einer gibt Feuerschutz der andere rückt vor zum Verwundeten und sichert die Umgebung. 
+2. Der andere rückt nach.
+3. Einer gibt Deckung, der andere untersucht den Verwundeten und führt Erst-Versorgung durch.
+4. Verwundeten bergen, oder Sani zur Position rufen und weiter Deckung geben.
+
+
+<hr></hr>
+
+## 🗺️ Kartenpunkte  
+
+### 🚩 Positionen 
+Werden mit **Zulu** gekennzeichnet.  
+Wird hinten nummeriert, also: Zulu-1, Zulu-2, Zulu-3 usw.  
+  
+Es ist auch möglich sein **Trupprufzeichen** hinzuzufügen, damit klar ist, dass ein Punkt nur für einen Trupp vorgesehen ist. (Auch sinnvoll, wenn es Wegmarker sind und die Trupps unterschiedliche Wege gehen, somit stimmt die Nummerierung der Punkte noch.)  
+Beispiel: **Zulu-Alpha-1, Zulu-Alpha-2, Zulu-Bravo-1**
+
+#### Spezielle Positionen
+- Zulu-LP1 (Landezonen: Für Helis usw.)
+- Zulu-DZ1 (Dropzone / Abwurfzone: Für Nachschubabwürfe usw.)
+- Zulu-RP1 (Rückzugspunkt: Gesicherter Punkt für den Rückzug)
+- Zulu-PI1 (Point of Interest: Punkt von Interesse)
+- Zulu-SP1 (Scout Punkt: Punkt mit guter Einsicht auf das Ziel)
+
+### ⚡ NATO-Symbole
+Diese Symbole sind zum Markieren von Einheiten jeglicher Art.
+Die Form des Rechtecks gibt Auskunft über die Seite der Einheit und auch die Farbe der Einheit.  
+  
+:::info Hinweis
+Wie genau diese Marker auf der Karte angelegt werden sollen erfährst du im Taktik Bereich!
+:::
+
+````
+Blau -> Eigene  
+Grün -> Unabhängige  
+Rot  -> Feinde  
+Lila -> Zivile 
+````
+
+#### 🔵 BLUFOR
+
+![BLUFOR Symbole](./img/NATO_BLUFOR.png)
+
+#### 🟢 INDIFOR
+![INDIFOR Symbole](./img/NATO_INDIFOR.png)
+
+#### 🔴 OPFOR
+![OPFOR Symbole](./img/NATO_OPFOR.png)
+
+#### 🟣 ZIVIL
+![ZIVIL Symbole](./img/NATO_ZIV.png)
+
+<hr></hr>
+
+## 🛡️ Taktik [WIP]
+Taktik ist elementarer Bestandteil unserer Missionen und Grundlage für einen erfolgreichen Abschluss der Einsätze.  
+
+### 📑 Taktische Planung
+Auch wenn ein Plan meist nur teilweise durchgeführt wird, da er durch verschiedenste Faktoren zunichte geht.
+
+Der 'Plan' sollte immer so detailliert wie möglich auf der Karte eingezeichnet werden, sodass jeder nachvollziehen kann, wie die nächsten Schritte sind.
+
+**Beispiel für eine taktische Planung:**
+![TacView](img/TacView.png)
+Oben im Bild ist ein Angriff auf vorher aufgeklärte Feindeinheiten geplant.  
+In den weißen Boxen sind Erklärungen anliegenden taktischen Zeichnungen.
+
+#### Bewegungspfeil
+Der Bewegungspfeil drückt aus, dass sich die Einheit, die am Anfang des Pfeils ist auf dem Pfeil bis zur Spitze bewegen soll.  
+![TacView](img/Bewegungspfeil.png)  
+Der Bewegungspfeil kann auch zwischen zwei Punkten wie Zulu-1 und Zulu-2 sein, um anzuzeigen wie sich die von dem einen Punkt zum anderen bewegt werden soll.
+
+#### Stellung halten
+Wird mit einem Kreis markiert, der gleichzeitig eine Rundumsicherung symbolisiert.  
+![TacView](img/Stellung_Halten.png)  
+'Stellung halten' kann auch an einen Bewegungspfeil angeknüpft werden.
+
+#### Position beziehen
+Wird mit einem Halbkreis (oder kleiner/größer), der abstehende Striche hat, gekennzeichnet.  
+![TacView](img/PositionBeziehen.png)   
+Die abstehenden Striche zeigen Richtung Feind, dementsprechend soll sich das Hauptaugenmerk des Trupps dorthin richten.
+
+### ❓ Planänderung
+Eine Planänderung ist meistens erforderlich. Das liegt nicht an schlechten Plänen, sondern am begrenzten Wissen.  
+Wenn man einen Plan ändert, sollte dies mit allen Truppführern und Command abgesprochen werden.  
+Ebenfalls ist es wichtig, alles auf der Karte einzuzeichnen.
+
 
 <hr></hr>
 
@@ -160,13 +251,13 @@ graph TD;
 >Feuer auf **bestätigte** feindliche Einheiten darf nach eigenem Ermessen >eröffnet werden.
 
 >### 🟡 Gelb
->Beschuss erwiedern
+>Beschuss erwidern
 
 >### 🔴 Rot
 >Feuer auf **bestätigte** feindliche Einheiten darf nach eigenem Ermessen >eröffnet werden.
 
 :::caution Wichtig
-Im Nahbereich ist der Feuerstatus nicht von relevanz.
+Im Nahbereich ist der Feuerstatus nicht von Relevanz.
 Selbstverteidigung ist hier das oberste Gebot.
 :::
 
@@ -198,7 +289,7 @@ Wenn es sich um scheinbaren Feindkontakt handelt, kann es sinnvoll sein Deckung 
 1. 🏴 Sammeln auf dem Server
 2. 🗣️ Briefing (Vorstellung der Mission und Besprechen des Vorgehens)
 3. 🙋🏻 Einteilen der Trupps
-4. 🔄️ Organiseren der Trupps (Aufgbaben / Rollen zuteilen)
+4. 🔄️ Organisieren der Trupps (Aufgaben / Rollen zuteilen)
 5. 🎒 Ausrüsten ([MBC abarbeiten](/milsim/leitfaden#-missions-bereitschafts-checkliste-mbc))
 6. 🚚 Zum Einsatzort
 7. ⚡ Mission wird durchgeführt
@@ -210,7 +301,7 @@ Wenn es sich um scheinbaren Feindkontakt handelt, kann es sinnvoll sein Deckung 
 ## 📋 Missions Bereitschafts Checkliste (MBC)
 
 Die MBC dient als routinierter Ablauf zur Vorbereitung auf eine anstehende Mission.  
-Die Durchführung der MBC findet i.d.R. nach der festlegung der Trupps und Einteilung der Spieler statt.
+Die Durchführung der MBC findet i.d.R. nach der Festlegung der Trupps und Einteilung der Spieler statt.
 
 ### 1. Ausrüstung
 
@@ -235,10 +326,10 @@ Geprüft werden muss:
 
 Auch als normales Truppmitglied ist es von Vorteil die Aufgabe, grobe Mission und das ungefähre Vorgehen zu kennen.  
 Das hilft z.B. Verwirrung vorzubeugen.  
-- Schau auf die Karte, dort wird das Vorgehen und die Ziele makiert und beschriftet.
+- Schau auf die Karte, dort wird das Vorgehen und die Ziele markiert und beschriftet.
 - Frag deinen Truppführer bei Unklarheiten
 
 ### 4. Vorbereitung
 
-Nach dem du dich persönlich Vorbereitet hast, melde dich bei deinem Truppführer.
-Es gibt fast immer Dinge die noch Vorbereitet werden müssen, wie z.B. das Fahrzeug beladen oder das Fahrzeug bereitstellen.
+Nach dem du dich persönlich vorbereitet hast, melde dich bei deinem Truppführer.
+Es gibt fast immer Dinge, die noch Vorbereitet werden müssen, wie z.B. das Fahrzeug beladen oder das Fahrzeug bereitstellen.
