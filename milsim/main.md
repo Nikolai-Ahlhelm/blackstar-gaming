@@ -42,7 +42,7 @@ Hier findest du alle Informationen zu unserem MilSim Projekt.
     </tr>
     <tr>
       <td><b>Mage</b></td>
-      <td>Luftwaffe</td>
+      <td>Luftwaffe, UAV</td>
     </tr>
   </tbody>
 </table>

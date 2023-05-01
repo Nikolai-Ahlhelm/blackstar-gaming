@@ -1,11 +1,7 @@
-# 🚑 Sanitäter
+# 🚑 Medizinische Ausbildungen
 
-<span style={{color: 'orange', fontSize: 28}}><b>
-Ausbilder gesucht! <br></br>
-Bei Fragen/Interesse wende dich an die Projektleitung.
+<span style={{color: 'green', fontSize: 28}}><b>
+Diese Ausbildung ist zur Zeit in der Erprobung. <br></br>
+Bei Fragen wende dich an: <br></br>
+Banshee / Ana
 </b></span>
-
-## 🚧 Work In Progress !!
-
-## Deine Aufgaben als Sanitäter  
-- Verwundeten Versorgung  
