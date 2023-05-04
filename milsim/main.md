@@ -58,19 +58,24 @@ Du kannst die Workshop Kollektion herunterladen, oder direkt das Mod Preset im L
 Beides Startet den Download der Mods.
 :::
 
-### Downloads
+### ⬇️ Downloads
 
+#### 🪨 Standard Preset
 Das Mod Preset für den Launcher findest du hier:  
 **<a target="_blank" href={ require("/downloads/BlackStarMilSimModliste.zip").default } download>Download</a> ** 
 
+#### 🧪 BETA Preset
+Das Beta Mod Preset für den Launcher findest du hier:  
+**<a target="_blank" href={ require("/downloads/BlackStarMilSimModliste2.zip").default } download>Download</a> ** 
 
 
 :::tip Hinweis
 Ihr müsst die Zip-Datei öffnen, darin ist die HTML-Datei die ihr braucht.
 :::
 
+---
 
-### Preset zum Launcher hinzufügen
+### ➕ Preset zum Launcher hinzufügen
 
 Lade das Preset runter und starte den Arma Launcher.
 
