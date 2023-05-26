@@ -37,11 +37,15 @@ Hier findest du alle Informationen zu unserem MilSim Projekt.
   </thead>
   <tbody>
     <tr>
-      <td>ThePhoenix</td>
+      <td><b>ThePhoenix</b></td>
       <td>Alles</td>
     </tr>
     <tr>
       <td><b>Mage</b></td>
+      <td>Luftwaffe, UAV</td>
+    </tr>
+    <tr>
+      <td><b>Yuri</b></td>
       <td>Luftwaffe, UAV</td>
     </tr>
   </tbody>
@@ -62,11 +66,11 @@ Beides Startet den Download der Mods.
 
 #### 🪨 Standard Preset
 Das Mod Preset für den Launcher findest du hier:  
-**<a target="_blank" href={ require("/downloads/BlackStarMilSimModliste.zip").default } download>Download</a> ** 
+**<a target="_blank" href={ require("/downloads/BlackStarMilSimModliste2.zip").default } download>Download</a> ** 
 
 #### 🧪 BETA Preset
-Das Beta Mod Preset für den Launcher findest du hier:  
-**<a target="_blank" href={ require("/downloads/BlackStarMilSimModliste2.zip").default } download>Download</a> ** 
+<s>Das Beta Mod Preset für den Launcher findest du hier:  
+**<a target="_blank" href={ require("/downloads/BlackStarMilSimModliste2.zip").default } download>Download</a> ** </s>
 
 
 :::tip Hinweis
