@@ -2,11 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blackstar-gaming.de/blog</id>
     <title>Black Star Gaming Blog</title>
-    <updated>2023-04-09T00:00:00.000Z</updated>
+    <updated>2023-05-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blackstar-gaming.de/blog"/>
     <subtitle>Black Star Gaming Blog</subtitle>
     <icon>https://blackstar-gaming.de/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MilSim - Modpack Update]]></title>
+        <id>https://blackstar-gaming.de/blog/Modpack-Update-26-05-23</id>
+        <link href="https://blackstar-gaming.de/blog/Modpack-Update-26-05-23"/>
+        <updated>2023-05-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Unser Beta-Modpack wird zum Standard-Modpack]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Thumbnail" src="/assets/images/MilSimLogo_Blog_Update-85c9947578f6fe52510c6c2215c8ee32.png" width="4096" height="2304" class="img_ev3q"></p><p>Unser Beta-Modpack konnte sich nach einer kleinen Anpassung bewähren und wird ab jetzt unser standard Modpack.<br>
+<!-- -->Den Download findet ihr wie gewohnt auf der <a href="/milsim/main">MilSim-Hauptseite</a>.  </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="änderungen">Änderungen<a href="#änderungen" class="hash-link" aria-label="Direkter Link zur Änderungen" title="Direkter Link zur Änderungen">​</a></h2><ul><li>Veraltete Mods wurden duch neuere ersetzt</li><li>QoL-Mods (ReColor)</li><li>Realismus-Mods (RealEngine, Rested Weapon Movement)</li><li>KI-Mod der das Verhalten der KI reaistischer gestaltet (fügt auch Unterdrückung der KI hinzu)</li><li>Verbesserte Nachtsichtgeräte (besseres Aussehen) + QuadNods</li><li>Breach Mod, ermöglich Sprengen und lockpicken von Türen</li><li>Immersions Mods (Simuliert Unterdrückung usw.)</li></ul>]]></content>
+        <author>
+            <name>Black Star Gaming Team</name>
+            <uri>https://blackstar-gaming.de</uri>
+        </author>
+        <category label="news" term="news"/>
+        <category label="update" term="update"/>
+        <category label="milsim" term="milsim"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Willkommen bei Black Star Gaming]]></title>
         <id>https://blackstar-gaming.de/blog/willkommen</id>

@@ -4,10 +4,22 @@
         <title>Black Star Gaming Blog</title>
         <link>https://blackstar-gaming.de/blog</link>
         <description>Black Star Gaming Blog</description>
-        <lastBuildDate>Sun, 09 Apr 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 May 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[MilSim - Modpack Update]]></title>
+            <link>https://blackstar-gaming.de/blog/Modpack-Update-26-05-23</link>
+            <guid>https://blackstar-gaming.de/blog/Modpack-Update-26-05-23</guid>
+            <pubDate>Fri, 26 May 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unser Beta-Modpack wird zum Standard-Modpack]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Thumbnail" src="/assets/images/MilSimLogo_Blog_Update-85c9947578f6fe52510c6c2215c8ee32.png" width="4096" height="2304" class="img_ev3q"></p><p>Unser Beta-Modpack konnte sich nach einer kleinen Anpassung bewähren und wird ab jetzt unser standard Modpack.<br>
+<!-- -->Den Download findet ihr wie gewohnt auf der <a href="/milsim/main">MilSim-Hauptseite</a>.  </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="änderungen">Änderungen<a href="#änderungen" class="hash-link" aria-label="Direkter Link zur Änderungen" title="Direkter Link zur Änderungen">​</a></h2><ul><li>Veraltete Mods wurden duch neuere ersetzt</li><li>QoL-Mods (ReColor)</li><li>Realismus-Mods (RealEngine, Rested Weapon Movement)</li><li>KI-Mod der das Verhalten der KI reaistischer gestaltet (fügt auch Unterdrückung der KI hinzu)</li><li>Verbesserte Nachtsichtgeräte (besseres Aussehen) + QuadNods</li><li>Breach Mod, ermöglich Sprengen und lockpicken von Türen</li><li>Immersions Mods (Simuliert Unterdrückung usw.)</li></ul>]]></content:encoded>
+            <category>news</category>
+            <category>update</category>
+            <category>milsim</category>
+        </item>
         <item>
             <title><![CDATA[Willkommen bei Black Star Gaming]]></title>
             <link>https://blackstar-gaming.de/blog/willkommen</link>
