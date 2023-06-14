@@ -4,10 +4,25 @@
         <title>Black Star Gaming Blog</title>
         <link>https://blackstar-gaming.de/blog</link>
         <description>Black Star Gaming Blog</description>
-        <lastBuildDate>Fri, 26 May 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[MilSim - PVP Event]]></title>
+            <link>https://blackstar-gaming.de/blog/PvP-MilSim-14-06-23</link>
+            <guid>https://blackstar-gaming.de/blog/PvP-MilSim-14-06-23</guid>
+            <pubDate>Wed, 14 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unser erstes PVP Event]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Thumbnail" src="/assets/images/MilSim_PVP_Event-bf4a58378278319008f0c5a2e8458592.png" width="4096" height="2304" class="img_ev3q"></p><p>Unser erstes MilSim PVP Event steht an!
+Das Ganze findet mit dem normalen MilSim Modpack statt.</p><p>Geplant ist ein Team Deathmatch in einem überschaubaren Gebäude Komplex.<br>
+<!-- -->Beide Teams starten gegenüber voneinander und müssen sich dann gegenseitig bekämpfen, auch möglich ist, dass ein Team verteidigit und das andere von außerhalb angreift um ein Objekt oder Geisel zu sichern.  </p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="details">Details<a href="#details" class="hash-link" aria-label="Direkter Link zur Details" title="Direkter Link zur Details">​</a></h3><ul><li>Beide Teams sind auf dem Teamspeak und kommunizieren über ACRE2, sind also auch für die Gegner hörbar, daher ist taktische Planung und eine gute Absprache sehr wichtig</li><li>Gespielt wird mit allen gängigen Waffen die unser Modpack zu bieten hat</li><li>Wirst du bewusstlos kannst du (wie bei normalen Einsätzen) von einem Teammitglied behandelt werden, es kostet aber Zeit und man ist wehrlos</li><li>Wenn du stirbst, bist du für die Runde raus, das letzte Team, das lebt gewinnt</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="wann">Wann<a href="#wann" class="hash-link" aria-label="Direkter Link zur Wann" title="Direkter Link zur Wann">​</a></h3><b>17.06.23 - 20:00 Uhr</b><h3 class="anchor anchorWithStickyNavbar_LWe7" id="wo">Wo<a href="#wo" class="hash-link" aria-label="Direkter Link zur Wo" title="Direkter Link zur Wo">​</a></h3><b>Auf unserem MilSim und TeamSpeak Server</b><h3 class="anchor anchorWithStickyNavbar_LWe7" id="warum-ein-pvp-event">Warum ein PVP Event?<a href="#warum-ein-pvp-event" class="hash-link" aria-label="Direkter Link zur Warum ein PVP Event?" title="Direkter Link zur Warum ein PVP Event?">​</a></h3><p>Die Idee hinter diesem Event ist, die Verbesserung von taktischem Vorgehen und Teamarbeit, sodass sich die dort gewonnenen Erfahrung in unsere regulären PVE Einsätze übertragen lassen.<br>
+<!-- -->Des Weiteren können sich noch unerfahrene Spieler im Spiel ausprobieren und durch "alte Hasen" etwas dazu lernen.<br>
+<!-- -->Außerdem ist es eine willkommene Abwechslung zu den KI-Gegnern.  </p><p>Bei Fragen, Ideen usw. könnt ihr mich gerne ansprechen.</p>]]></content:encoded>
+            <category>news</category>
+            <category>event</category>
+            <category>milsim</category>
+        </item>
         <item>
             <title><![CDATA[MilSim - Modpack Update]]></title>
             <link>https://blackstar-gaming.de/blog/Modpack-Update-26-05-23</link>

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocusaurus=self.webpackChunkdocusaurus||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"MilSim - Modpack Update","permalink":"/blog/Modpack-Update-26-05-23"},{"title":"Willkommen bei Black Star Gaming","permalink":"/blog/willkommen"}]}')}}]);
