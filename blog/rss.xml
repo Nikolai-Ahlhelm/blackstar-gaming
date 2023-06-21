@@ -4,10 +4,22 @@
         <title>Black Star Gaming Blog</title>
         <link>https://blackstar-gaming.de/blog</link>
         <description>Black Star Gaming Blog</description>
-        <lastBuildDate>Wed, 14 Jun 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>de</language>
+        <item>
+            <title><![CDATA[MilSim - PVP Event 2]]></title>
+            <link>https://blackstar-gaming.de/blog/PvP-MilSim-21-06-23</link>
+            <guid>https://blackstar-gaming.de/blog/PvP-MilSim-21-06-23</guid>
+            <pubDate>Wed, 21 Jun 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[Unser zweites PVP Event]]></description>
+            <content:encoded><![CDATA[<p><img loading="lazy" alt="Thumbnail" src="/assets/images/MilSim_PVP_Event-bf4a58378278319008f0c5a2e8458592.png" width="4096" height="2304" class="img_ev3q"></p><p>Da unser erstes PVP Event sehr gut ankam, möchten wir dieses Wochenende direkt unser zweites PVP Event veranstalten.
+Das Ganze findet mit dem normalen MilSim Modpack statt.</p><p>Das Event wird ein spannendes Team Deathmatch in einem kompakten Gebäude Komplex sein. Die Teams werden sich entweder direkt bekriegen oder eine Angriff-Verteidigung Situation simulieren, bei der ein Team ein Objekt oder eine Geisel sichern muss.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="details">Details<a href="#details" class="hash-link" aria-label="Direkter Link zur Details" title="Direkter Link zur Details">​</a></h3><ul><li>Keine Granatwerfer, Raketenwerfer oder Impact-Granaten</li><li>Erlaubt sind alle gängigen Waffen aus unserem Modpack</li><li>Wenn du bewusstlos wirst, kannst du von einem Teammitglied behandelt werden, aber das kostet Zeit und macht euch angreifbar</li><li>Wenn du stirbst, bist du für die Runde ausgeschieden, das letzte Team, das überlebt, gewinnt</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="wann">Wann<a href="#wann" class="hash-link" aria-label="Direkter Link zur Wann" title="Direkter Link zur Wann">​</a></h3><b>24.06.23 - 20:00 Uhr</b><h3 class="anchor anchorWithStickyNavbar_LWe7" id="wo">Wo<a href="#wo" class="hash-link" aria-label="Direkter Link zur Wo" title="Direkter Link zur Wo">​</a></h3><b>Auf unserem MilSim und TeamSpeak Server</b><p>Bei Fragen, Ideen usw. könnt ihr mich gerne ansprechen.</p>]]></content:encoded>
+            <category>news</category>
+            <category>event</category>
+            <category>milsim</category>
+        </item>
         <item>
             <title><![CDATA[MilSim - PVP Event]]></title>
             <link>https://blackstar-gaming.de/blog/PvP-MilSim-14-06-23</link>
