@@ -61,7 +61,7 @@ export default function Home() {
             <hr style={{margin: "auto"}}></hr>
             <br></br>
             
-            <div className="text--center padding-horiz--md">
+            <div className="text--center">
               <h1>🪖 MilSim</h1>
               <p className={styles.bigFont}>Unser Arma 3 MilSim Projekt mit Fokus auf Bundeswehr. <br></br> 
               Missionen finden jedes Wochenende statt. <br></br>

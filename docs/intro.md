@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🌍 Wiki Startseite 
+# 🌍 Startseite 
 
 Willkommen im Black Star Gaming Wiki!
 
@@ -14,5 +14,7 @@ Du kannst aber auch einfach nach `Markdown Syntax` googeln, wenn du weitere Info
 
 ## Quick Links
 
-[Link](https://google.de/)
+#### [Wie trete ich bei?](/docs/beitreten)  
+#### [Discord](http://discord.blackstar-gaming.de/)  
+
 
