@@ -9,8 +9,8 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        In unserer Community ist jeder willkommen. <br/> 
-        Egal ob Gelegenheitsspieler oder vollblut Gamer. <br/>
+        In unserer Gaming Community ist jeder willkommen, egal wie oft du spielst. <br/>
+        Hier findest du immer jemanden, für entspannte Gaming-Sessions. <br/>
         
       </>
     ),
