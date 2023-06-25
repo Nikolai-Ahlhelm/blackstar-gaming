@@ -77,6 +77,23 @@ export default function Home() {
             <hr></hr>
             <br></br>
 
+            <div className="text--center padding-horiz--md">
+              <h1>🎖️ Squad</h1>
+              <p className={styles.bigFont}>Player vs Player MilSim, mit Fokus auf taktisches Gameplay und koordination.<br></br>
+              Bei Bedarf können Einsteiger angeleitet und durch das Spiel geführt werden.
+              </p>
+              <Link to="/docs/category/%EF%B8%8F-squad-1"> 
+                <button type="button"  className="button button--secondary button--dg" style={{borderWidth: '2px', borderColor: '#BBBBBB'}}>
+                 Mitmachen
+                </button>
+              </Link>
+            </div>
+
+
+            <br></br>
+            <hr></hr>
+            <br></br>
+
             <div style={{borderWidth: '200px', borderColor: '#BBBBBB'}}>
               <div className="text--center padding-horiz--md">
                 <h1>🔬 SCP: Secret Laboratory</h1>
@@ -97,7 +114,7 @@ export default function Home() {
 
             <div className="text--center padding-horiz--md">
               <h1>🌍 Minecraft Modded</h1>
-              <p className={styles.bigFont}>Betritt unsere Welt von ausgewählten Mods und bebaue mit uns diese gigantische Welt.  <br></br> 
+              <p className={styles.bigFont}>Betritt unsere Welt von ausgewählten Mods und bebaue mit uns diese gigantische Sandbox.  <br></br> 
               Du hast die Wahl dich unserer Gemeinde anzuschlißen oder etwas ganz neues zu erschaffen.<br></br>
               </p>
               <Link to="/docs/category/%EF%B8%8F-minecraft-1"> 

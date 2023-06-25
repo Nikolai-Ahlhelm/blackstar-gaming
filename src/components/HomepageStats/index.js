@@ -23,10 +23,10 @@ const StatList = [
   },
   {
     title: 'Aktuelle Projekte',
-    icon: '⭐',
+    icon: '🎮',
     description: (
       <>
-        3
+        4
       </>
     ),
   },

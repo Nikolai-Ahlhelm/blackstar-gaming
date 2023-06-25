@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # 📖 Squad Server Regeln
 
 **Für den *Black Star Gaming Squad Server* gelten die folgenden Regeln.**
