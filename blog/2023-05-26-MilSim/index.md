@@ -12,6 +12,8 @@ tags: [news, update, milsim]
 Unser Beta-Modpack konnte sich nach einer kleinen Anpassung bewähren und wird ab jetzt unser standard Modpack.  
 Den Download findet ihr wie gewohnt auf der [MilSim-Hauptseite](/milsim/main).  
 
+<!--truncate-->
+
 ## Änderungen
 - Veraltete Mods wurden duch neuere ersetzt
 - QoL-Mods (ReColor)

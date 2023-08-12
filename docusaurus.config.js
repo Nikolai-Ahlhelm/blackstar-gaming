@@ -99,7 +99,6 @@ const config = {
             position: 'left',
             items: [
               {type: 'docSidebar', docsPluginId: 'milsim', sidebarId: 'milsimSidebar', label: '🪖 MilSim',},
-              {to: '/docs/category/%EF%B8%8F-squad-1', label: '🎖️ Squad'},
               {to: '/docs/scp_sl', label: '🔬 SCP: Secret Laboratory'},
               {to: '/docs/category/%EF%B8%8F-minecraft-1', label: '⛏️ Modded Minecraft'},
             ],

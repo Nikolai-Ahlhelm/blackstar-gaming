@@ -15,6 +15,8 @@ Das Ganze findet mit dem normalen MilSim Modpack statt.
 Geplant ist ein Team Deathmatch in einem überschaubaren Gebäude Komplex.  
 Beide Teams starten gegenüber voneinander und müssen sich dann gegenseitig bekämpfen, auch möglich ist, dass ein Team verteidigit und das andere von außerhalb angreift um ein Objekt oder Geisel zu sichern.  
 
+<!--truncate-->
+
 ### Details
 - Beide Teams sind auf dem Teamspeak und kommunizieren über ACRE2, sind also auch für die Gegner hörbar, daher ist taktische Planung und eine gute Absprache sehr wichtig
 - Gespielt wird mit allen gängigen Waffen die unser Modpack zu bieten hat

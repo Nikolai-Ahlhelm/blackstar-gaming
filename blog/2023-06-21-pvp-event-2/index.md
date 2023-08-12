@@ -10,6 +10,7 @@ tags: [news, event, milsim]
 ![Thumbnail](./MilSim_PVP_Event.png)
 
 Da unser erstes PVP Event sehr gut ankam, möchten wir dieses Wochenende direkt unser zweites PVP Event veranstalten.
+<!--truncate-->
 Das Ganze findet mit dem normalen MilSim Modpack statt.
   
 Das Event wird ein spannendes Team Deathmatch in einem kompakten Gebäude Komplex sein. Die Teams werden sich entweder direkt bekriegen oder eine Angriff-Verteidigung Situation simulieren, bei der ein Team ein Objekt oder eine Geisel sichern muss.
