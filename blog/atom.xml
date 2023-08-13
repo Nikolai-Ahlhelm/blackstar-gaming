@@ -2,19 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blackstar-gaming.de/blog</id>
     <title>Black Star Gaming Blog</title>
-    <updated>2023-06-21T00:00:00.000Z</updated>
+    <updated>2023-08-08T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blackstar-gaming.de/blog"/>
     <subtitle>Black Star Gaming Blog</subtitle>
     <icon>https://blackstar-gaming.de/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Arma Reforger]]></title>
+        <id>https://blackstar-gaming.de/blog/Arma-Reforger</id>
+        <link href="https://blackstar-gaming.de/blog/Arma-Reforger"/>
+        <updated>2023-08-08T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Läutet Arma Reforger die nächste Generation des MilSims ein?]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Thumbnail" src="/assets/images/Ankuendigung-Arma-Reforger-4349dcc14453f7e65ceeaadc0d3d7c47.png" width="2400" height="960" class="img_ev3q"></p><p>Arma Reforger wurde am 17.05.2022 veröffentlicht. Ist es ein (übergangsweise) würdiger Nachfolger für MilSim?</p><hr><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-was-ist-arma-reforger">🔍 Was ist Arma Reforger?<a href="#-was-ist-arma-reforger" class="hash-link" aria-label="Direkter Link zur 🔍 Was ist Arma Reforger?" title="Direkter Link zur 🔍 Was ist Arma Reforger?">​</a></h2><p>Der Trailer gibt einen kleinen Überblick:</p><iframe width="100%" height="420" src="https://www.youtube.com/embed/AIervYhiEZ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"></iframe><hr><h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-milsim">⚖️ MilSim?<a href="#️-milsim" class="hash-link" aria-label="Direkter Link zur ⚖️ MilSim?" title="Direkter Link zur ⚖️ MilSim?">​</a></h2><p>Es gibt großes Interesse bei den Leuten die Arma Reforger bereits besitzen, dieses auch mal in einer größeren Runde im MilSim Style zu spielen.<br>
+<!-- -->Mods wie ACRE2 sind überflüssig, da richtige Funkgeräte bereits zum Standardinhalt gehören.<br>
+<!-- -->Das neuste Update fügt ein Medic-System hinzu, dass etwas komplexer als das standard Arma 3 Medic-System ist. Hier werden Leute bewusstlos und können von einem Medic untersucht werden.  </p><hr><h2 class="anchor anchorWithStickyNavbar_LWe7" id="-fazit">🚀 Fazit<a href="#-fazit" class="hash-link" aria-label="Direkter Link zur 🚀 Fazit" title="Direkter Link zur 🚀 Fazit">​</a></h2><p><strong>Meiner Meinung nach ist Arma Reforger mehr als geeignet um es für MilSim zu benutzen,</strong><br>
+<strong>deshalb würde ich gerne ein Arma Reforger Event veranstalten!</strong></p>]]></content>
+        <author>
+            <name>Nikolai (ThePhoenix)</name>
+            <uri>https://blackstar-gaming.de</uri>
+        </author>
+        <category label="news" term="news"/>
+        <category label="event" term="event"/>
+        <category label="milsim" term="milsim"/>
+        <category label="arma" term="arma"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MilSim - PVP Event 2]]></title>
         <id>https://blackstar-gaming.de/blog/PvP-MilSim-21-06-23</id>
         <link href="https://blackstar-gaming.de/blog/PvP-MilSim-21-06-23"/>
         <updated>2023-06-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Unser zweites PVP Event]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="Thumbnail" src="/assets/images/MilSim_PVP_Event-bf4a58378278319008f0c5a2e8458592.png" width="4096" height="2304" class="img_ev3q"></p><p>Da unser erstes PVP Event sehr gut ankam, möchten wir dieses Wochenende direkt unser zweites PVP Event veranstalten.
-Das Ganze findet mit dem normalen MilSim Modpack statt.</p><p>Das Event wird ein spannendes Team Deathmatch in einem kompakten Gebäude Komplex sein. Die Teams werden sich entweder direkt bekriegen oder eine Angriff-Verteidigung Situation simulieren, bei der ein Team ein Objekt oder eine Geisel sichern muss.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="details">Details<a href="#details" class="hash-link" aria-label="Direkter Link zur Details" title="Direkter Link zur Details">​</a></h3><ul><li>Keine Granatwerfer, Raketenwerfer oder Impact-Granaten</li><li>Erlaubt sind alle gängigen Waffen aus unserem Modpack</li><li>Wenn du bewusstlos wirst, kannst du von einem Teammitglied behandelt werden, aber das kostet Zeit und macht euch angreifbar</li><li>Wenn du stirbst, bist du für die Runde ausgeschieden, das letzte Team, das überlebt, gewinnt</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="wann">Wann<a href="#wann" class="hash-link" aria-label="Direkter Link zur Wann" title="Direkter Link zur Wann">​</a></h3><b>24.06.23 - 20:00 Uhr</b><h3 class="anchor anchorWithStickyNavbar_LWe7" id="wo">Wo<a href="#wo" class="hash-link" aria-label="Direkter Link zur Wo" title="Direkter Link zur Wo">​</a></h3><b>Auf unserem MilSim und TeamSpeak Server</b><p>Bei Fragen, Ideen usw. könnt ihr mich gerne ansprechen.</p>]]></content>
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="Thumbnail" src="/assets/images/MilSim_PVP_Event-bf4a58378278319008f0c5a2e8458592.png" width="4096" height="2304" class="img_ev3q"></p><p>Da unser erstes PVP Event sehr gut ankam, möchten wir dieses Wochenende direkt unser zweites PVP Event veranstalten.</p><p>Das Ganze findet mit dem normalen MilSim Modpack statt.</p><p>Das Event wird ein spannendes Team Deathmatch in einem kompakten Gebäude Komplex sein. Die Teams werden sich entweder direkt bekriegen oder eine Angriff-Verteidigung Situation simulieren, bei der ein Team ein Objekt oder eine Geisel sichern muss.</p><h3 class="anchor anchorWithStickyNavbar_LWe7" id="details">Details<a href="#details" class="hash-link" aria-label="Direkter Link zur Details" title="Direkter Link zur Details">​</a></h3><ul><li>Keine Granatwerfer, Raketenwerfer oder Impact-Granaten</li><li>Erlaubt sind alle gängigen Waffen aus unserem Modpack</li><li>Wenn du bewusstlos wirst, kannst du von einem Teammitglied behandelt werden, aber das kostet Zeit und macht euch angreifbar</li><li>Wenn du stirbst, bist du für die Runde ausgeschieden, das letzte Team, das überlebt, gewinnt</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="wann">Wann<a href="#wann" class="hash-link" aria-label="Direkter Link zur Wann" title="Direkter Link zur Wann">​</a></h3><b>24.06.23 - 20:00 Uhr</b><h3 class="anchor anchorWithStickyNavbar_LWe7" id="wo">Wo<a href="#wo" class="hash-link" aria-label="Direkter Link zur Wo" title="Direkter Link zur Wo">​</a></h3><b>Auf unserem MilSim und TeamSpeak Server</b><p>Bei Fragen, Ideen usw. könnt ihr mich gerne ansprechen.</p>]]></content>
         <author>
             <name>Nikolai (ThePhoenix)</name>
             <uri>https://blackstar-gaming.de</uri>
