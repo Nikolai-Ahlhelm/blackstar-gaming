@@ -10,15 +10,13 @@ sidebar_position: 2
 
 
 :::info Info  
-Leider sind wir noch nicht im offiziellen Browser, da die Lizensierung unseres Servers noch austeht.  
-Deshalb müsst ihr die unten aufgeführte Methode benutzen 😕
+Wir sind ab sofort unter den offiziellen Servern von Squad gelistet! 🥳
 :::
 
-<br></br>
-<br></br><br></br>  
+<br></br> 
 
-Um dem Server beizutreten, musst du zur Zeit in den `Custom Browser` und dort nach Black Star Gaming suchen.  
-  
-**Hier nochmal eine Bildanleitung:**  
-![Bildanleitung](./howToJoin.png)
+Dem Server kannst du unter dem "Server Browser" beitreten. 
+Sucht einfach nach: 
+**[GER] Black Star Gaming #1** <br></br>
+
 
