@@ -33,9 +33,10 @@ Verweis: [Zum Community Regelwerk](/docs/community-rules)
 1. Squadleader sollten nur Spieler mit ausreichend Erfahrung sein
 2. Squadleader müssen ein Mikrofon haben und es benutzen
 3. Squadnamen müssen mit 1.1 konform sein
+4. Squadleader müssen SL-Kits benutzen
   
 <br></br>
 <br></br>
 <br></br>
 
-*Letzte Aktualisierung: 24.06.23*  
+*Letzte Aktualisierung: 24.11.23*  
